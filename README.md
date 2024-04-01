@@ -1,5 +1,9 @@
 https://whateverittech.medium.com/using-supabase-auth-in-nextjs-13-520d6bc4878a
 
+<img src="/screenshot/screenshot.webp" height="400em" />
+
+<img src="/screenshot/1.jpg" />
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
